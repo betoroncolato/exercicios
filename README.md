@@ -1,1 +1,1 @@
-# Lista de exercicios da primeira semana do curso de Analise e Desenvolvimento de Sistemas
+# Lista de exercicios da primeira semana do curso de Análise e Desenvolvimento de Sistemas
